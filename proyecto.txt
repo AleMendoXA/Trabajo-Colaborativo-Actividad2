@@ -1,6 +1,6 @@
 PROYECTO COLABORATIVO CON GIT Y GITHUB
 
-Integrante A:
+Integrante A: Aporte realizado por el integrante A.
 Integrante B: Aporte realizado por el integrante B.
 
 Proyecto inicial.
